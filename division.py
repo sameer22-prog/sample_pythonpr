@@ -1,4 +1,4 @@
-print("division:",10/6)
+print("division:",10/4)
 
 
 
