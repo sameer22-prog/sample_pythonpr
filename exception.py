@@ -7,3 +7,5 @@ try:
         print("check password")
 except Exception:
     print("only in digit")
+finally:
+      print("thanks a lot you complete your work")
